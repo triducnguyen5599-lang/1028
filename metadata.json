@@ -1,0 +1,6 @@
+{
+  "name": "Taiwan Customs Guide - Prohibited & Restricted Items",
+  "description": "Essential English guide to Taiwan Customs prohibited goods, quarantine rules, African Swine Fever fines, duty-free limits, and departure packing checklist for travelers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
